@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "John",
+        "email": "John.Green@WSU.edu",
+        "grade": "90"
+    },
+    {
+        "id": 2,
+        "name": "Jenny",
+        "email": "Jenny.White@WSU.edu",
+        "grade": "95"
+    }
+]
